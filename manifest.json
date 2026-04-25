@@ -1,6 +1,6 @@
 {
-  "short_name": "Yr10",
-  "name": "SMIOC Yr X",
+  "short_name": "Msgs",
+  "name": "My Messages App",
   "icons": [
     {
       "src": "icon.png",

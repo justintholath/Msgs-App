@@ -2,6 +2,8 @@ const CACHE_NAME = 'v1';
 const ASSETS = [
     './',
     './index.html',
+    './styles.css',
+    './app-logic.js',
     './manifest.json'
 ];
 
